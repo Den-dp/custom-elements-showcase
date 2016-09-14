@@ -1,0 +1,23 @@
+{
+  "name": "custom-elements-showcase",
+  "version": "1.0.0",
+  "description": "Demonstration of Custom Elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Den-dp/custom-elements-showcase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Den-dp/custom-elements-showcase/issues"
+  },
+  "homepage": "https://github.com/Den-dp/custom-elements-showcase#readme",
+  "dependencies": {
+    "webcomponents.js": "^0.7.22"
+  }
+}
